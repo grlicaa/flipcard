@@ -1,0 +1,33 @@
+{
+  "name": "Flip Card",
+  "version": "23.2.0",
+  "description": "",
+  "keywords": ["flip","card","template","component"],
+  "homepage": "https://github.com/grlicaa/flipcard",
+  "bugs": {
+    "url": "https://github.com/grlicaa/flipcard/issues"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Andrej Grlica",
+    "email": "grlicaa@gmail.com",
+    "twitter": "AndrejGrlica"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grlicaa/flipcard.git"
+  },
+  "oracle": {
+    "versions": ["23.2.0", "21.1.0", "19.1.0"],
+    "apex": {
+      "versions": ["23.2.0"],
+      "plugin": {
+        "internalName": "UNITEDCODES_TC_FLIP_CARD",
+        "type": "template component",
+        "demo": "https://apex.oracle.com/pls/apex/r/trtdemo/uc-flip-card/flip-card",
+        "previewImage": "https://raw.githubusercontent.com/grlicaa/flipcard/main/docs/images/uc-flipcard-demo-small.gif?raw=true"
+      }
+    }
+  }
+}
