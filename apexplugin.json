@@ -26,7 +26,7 @@
         "internalName": "UNITEDCODES_TC_FLIP_CARD",
         "type": "template component",
         "demo": "https://apex.oracle.com/pls/apex/r/trtdemo/uc-flip-card/flip-card",
-        "previewImage": "https://raw.githubusercontent.com/grlicaa/flipcard/main/docs/images/uc-flipcard-demo-small.gif?raw=true"
+        "previewImage": "https://github.com/grlicaa/flipcard/blob/main/docs/images/uc-flipcard-demo-small.gif?raw=true"
       }
     }
   }

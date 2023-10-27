@@ -12,7 +12,7 @@ Demo is avaiable on [https://apex.oracle.com/pls/apex/r/trtdemo/uc-flip-card/fli
 
 ### Preview
 
-[](https://raw.githubusercontent.com/grlicaa/flipcard/main/docs/images/uc-flipcard-demo-small.gif?raw=true)
+![](https://github.com/grlicaa/flipcard/blob/main/docs/images/uc-flipcard-demo-small.gif?raw=true)
 
 ### Install demo app
 
