@@ -21,7 +21,7 @@
   "oracle": {
     "versions": ["23.2.0", "21.1.0", "19.1.0"],
     "apex": {
-      "versions": ["23.2.0"],
+      "versions": ["23.2","24.1","24.2"],
       "plugin": {
         "internalName": "UNITEDCODES_TC_FLIP_CARD",
         "type": "template component",
