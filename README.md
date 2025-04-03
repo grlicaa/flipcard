@@ -29,4 +29,14 @@ A demo is available at [https://apex.oracle.com/pls/apex/r/trtdemo/uc-flip-card/
 ## To-Do
 
 Write more robust documentation.
-Mobile devices automatically switch behaviour. 
+
+## Changelog
+
+### 25.1
+
+Fixed issues:\
+[1. Fixed typo on on Card Action](https://github.com/grlicaa/flipcard/issues/2)\
+[2. Fixed Buttons not clicable in APEX 24.2](https://github.com/grlicaa/flipcard/issues/5)
+
+Added feature:\
+[Flip on Automatic action (Desktop Hover, Mobile Click)](https://github.com/grlicaa/flipcard/issues/3)
